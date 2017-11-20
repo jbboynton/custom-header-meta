@@ -1,0 +1,14 @@
+[16-Dec-2016 14:26:36 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/hornermi/public_html/wp-content/plugins/custom-header-meta/custom-header-styles.php on line 10
+[16-Dec-2016 14:28:28 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/hornermi/public_html/wp-content/plugins/custom-header-meta/custom-header-styles.php on line 10
+[16-Dec-2016 14:28:34 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/hornermi/public_html/wp-content/plugins/custom-header-meta/custom-header-styles.php on line 10
+[16-Dec-2016 14:28:39 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/hornermi/public_html/wp-content/plugins/custom-header-meta/custom-header-styles.php on line 10
+[16-Dec-2016 14:34:33 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/hornermi/public_html/wp-content/plugins/custom-header-meta/custom-header-styles.php on line 10
+[16-Dec-2016 14:36:10 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/hornermi/public_html/wp-content/plugins/custom-header-meta/custom-header-styles.php on line 11
+[16-Dec-2016 14:46:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_meta() in /home/hornermi/public_html/wp-content/plugins/custom-header-meta/custom-header-styles.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/hornermi/public_html/wp-content/plugins/custom-header-meta/custom-header-styles.php on line 5
+[16-Dec-2016 14:46:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_meta() in /home/hornermi/public_html/wp-content/plugins/custom-header-meta/custom-header-styles.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/hornermi/public_html/wp-content/plugins/custom-header-meta/custom-header-styles.php on line 5
