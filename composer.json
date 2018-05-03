@@ -1,0 +1,12 @@
+{
+  "name": "jbboynton/custom-header-meta",
+  "version" : "0.1.0",
+  "description": "Display a custom page header.",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "James Boynton",
+      "email": "james.boynton0@gmail.com"
+    }
+  ]
+}
